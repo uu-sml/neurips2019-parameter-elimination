@@ -1,7 +1,7 @@
 clearvars;
 close all;
 
-rng(24);
+rng(2);
 
 % GENERATE DATA
 %%
