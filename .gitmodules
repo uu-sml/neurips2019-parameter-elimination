@@ -1,9 +1,9 @@
 [submodule "birch-toy-model"]
 	path = birch-toy-model
-	url = git@github.com:uu-sml/birch-toy-model
+	url = https://github.com/uu-sml/birch-toy-model
 [submodule "birch-ecological-model"]
 	path = birch-ecological-model
-	url = git@github.com:uu-sml/birch-ecological-model
+	url = https://github.com/uu-sml/birch-ecological-model
 [submodule "birch-vector-borne-disease"]
 	path = birch-vector-borne-disease
-	url = git@github.com:uu-sml/birch-vector-borne-disease
+	url = https://github.com/uu-sml/birch-vector-borne-disease
